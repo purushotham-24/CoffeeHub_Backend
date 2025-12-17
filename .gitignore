@@ -1,0 +1,5 @@
+# Ignore secrets
+auth/config.php
+
+# Optional
+.env
