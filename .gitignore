@@ -1,4 +1,4 @@
-# Ignore secrets
+# Ignore 
 auth/config.php
 
 # Optional
